@@ -6,7 +6,7 @@ baseurl: "" # Leave empty if hosted at <username>.github.io
 url: "https://rayan-islam.github.io" # Replace with your URL
 
 # Theme Settings
-theme: hacker # Hacker theme for GitHub Pages
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Metadata for SEO
 keywords: "Portfolio, GitHub, Hacker Theme, Projects, Skills"
@@ -42,3 +42,4 @@ footer_text: "Made with 💻 using the Hacker theme | Hosted on GitHub Pages"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
