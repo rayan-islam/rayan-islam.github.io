@@ -1,0 +1,44 @@
+title: "My Portfolio"
+description: "Showcasing my projects, skills, and interests"
+author: "Rayan Islam"
+email: "rayan.islam.2586@gmail.com"
+baseurl: "" # Leave empty if hosted at <username>.github.io
+url: "https://rayan-islam.github.io" # Replace with your URL
+
+# Theme Settings
+theme: hacker # Hacker theme for GitHub Pages
+
+# Metadata for SEO
+keywords: "Portfolio, GitHub, Hacker Theme, Projects, Skills"
+
+# Navigation Links
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects/"
+  - name: "Skills"
+    url: "/skills/"
+  - name: "Research"
+    url: "/research/"
+  - name: "Contact"
+    url: "/contact/"
+
+# Social Media Links
+social_links:
+  github: "https://github.com/rayan-islam"
+  facebook: "https://www.facebook.com/rayan.islam.790/"
+  #linkedin: "https://linkedin.com/in/<your-profile>"
+
+# Customization Options
+highlight: "monokai" # Syntax highlighting theme
+markdown: "kramdown" # Markdown engine
+permalink: "pretty" # Clean URL structure
+
+# Footer Settings
+footer_text: "Made with 💻 using the Hacker theme | Hosted on GitHub Pages"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
