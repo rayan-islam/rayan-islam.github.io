@@ -47,4 +47,4 @@ I am a software engineer with a solid background in Computer Science and a stron
 
 ## 📄 Resume
 
-[Download My CV](https://github.com/your-username/your-username.github.io/blob/main/CV.pdf)
+[Download My CV](https://github.com/rayan-islam/rayan-islam.github.io/blob/main/cv.pdf)
