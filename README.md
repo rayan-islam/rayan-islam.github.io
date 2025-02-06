@@ -18,7 +18,6 @@ I am a software engineer with a solid background in Computer Science and a stron
 | ------------- | --------------------------------------------------------- | ---------------------------- | ----------------- |
 | **Project 1** | Jobify-Job finding and A job posting wedsite	     	    | NextJs, TailwindCss, MongoDb | [View Project](https://github.com/4K45H107/CSE408_JOBIFY) |
 | **Project 2** | KHABO - Your Culinary Companion           	            | CSS, PYTHON, Javascript,HTML | [View Project](https://github.com/Anamul-Hoque-Emtiaj/Khabo) |
-| **Project 3** | A tool or feature to improve productivity         	    | C++, MySQL     		   | [View Project](#) |
 
 ---
 
