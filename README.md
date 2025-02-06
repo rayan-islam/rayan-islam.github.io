@@ -39,12 +39,6 @@ I am a software engineer with a solid background in Computer Science and a stron
 
 ---
 
-## 🌟 Highlights
-
-![Akib Rahman GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 📄 Resume
 
 [Download My CV](https://github.com/rayan-islam/rayan-islam.github.io/blob/main/blob/main/cv.pdf)
