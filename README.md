@@ -14,18 +14,18 @@ I am a software engineer with a solid background in Computer Science and a stron
 
 ## 💼 Projects
 
-| Project Name  | Description                                        | Tech Stack     | Link              |
-| ------------- | -------------------------------------------------- | -------------- | ----------------- |
-| **Project 1** | A project to solve a specific problem or challenge | Python, Django | [View Project](#) |
-| **Project 2** | An application that simplifies processes           | React, Node.js | [View Project](#) |
-| **Project 3** | A tool or feature to improve productivity          | C++, MySQL     | [View Project](#) |
+| Project Name  | Description                                               | Tech Stack     		   | Link              |
+| ------------- | --------------------------------------------------------- | ---------------------------- | ----------------- |
+| **Project 1** | Jobify-Job finding and A job posting wedsite	     	    | NextJs, TailwindCss, MongoDb | [View Project](https://github.com/4K45H107/CSE408_JOBIFY) |
+| **Project 2** | KHABO - Your Culinary Companion           	            | CSS, PYTHON, Javascript,HTML | [View Project](https://github.com/Anamul-Hoque-Emtiaj/Khabo) |
+| **Project 3** | A tool or feature to improve productivity         	    | C++, MySQL     		   | [View Project](#) |
 
 ---
 
 ## 🔧 Skills
 
 - **Programming Languages**: Python, JavaScript, C++
-- **Frameworks**: React, NextJs
+- **Frameworks**: React, NextJs, TailwindCss
 - **Databases**: MySQL, MongoDB
 
 ---
